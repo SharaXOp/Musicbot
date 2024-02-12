@@ -11,12 +11,12 @@
 [![Forks](https://img.shields.io/github/forks/WCGKING/BRANDEDKING?style=flat-square&color=orange)](https://github.com/WCGKING/BRANDEDKING/fork)
 
 
-![logo](https://te.legra.ph/file/8ec25796bc604fbfacdf1.jpg)
+![logo](https://telegra.ph/SHARA-x-MUSIC-BOT-02-12)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=980&lines=This+Project+Is+Inspired+On+The+Hard+Work+Branded+Network%E2%9D%A4%EF%B8%8F">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪  𝗞𝗛𝗨𝗦𝗜𝗖 𓆩🇽𓆪  𝗠𝗨𝗦𝗜𝗖](https://t.me/KHUSHI_MUSIC76_BOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [♡︎ sʜᴀʀᴀ ♡︎ BY = @SHARA_XD](https://t.me/SharaXmusic_bot)**
 
 
 <h2 align="center">
