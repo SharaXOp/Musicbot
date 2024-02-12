@@ -1,5 +1,5 @@
 ━━━━━━━━━━━━━━━━━━━━
-# 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝓧 𝗞𝗜𝗡𝗚
+# 𝐐𝐔𝐄𝐄𝐍 𝐒𝐇𝐀𝐑𝐀
 
 ━━━━━━━━━━━━━━━━━━━━
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
@@ -26,7 +26,7 @@
 ## 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗛𝗲𝗿𝗼𝗸𝘂
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WCGKING/BRANDEDKING)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devilxdz/sharaXmuisc)
 
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
