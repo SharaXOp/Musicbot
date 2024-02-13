@@ -98,18 +98,18 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❤️‍🔥 ᴋɪɴɢ", url="https://t.me/BRANDEDKING82",
+                text="❤️‍🔥 shara", url="https://t.me/Shara_xd",
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/BRANDED_WORLD",
+                text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/saraXsupport",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/WCGKING/BRANDEDKING",
+                text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/devilxdz/sharaXmuisc",
             ),
             InlineKeyboardButton(
-                text="🦋 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/BRANDED_PAID_CC",
+                text="🦋 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/SharaXassociate",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
