@@ -1,46 +1,34 @@
-━━━━━━━━━━━━━━━━━━━━
-# 𝐐𝐔𝐄𝐄𝐍 𝐒𝐇𝐀𝐑𝐀
-
-━━━━━━━━━━━━━━━━━━━━
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
-
-
-
-[![](https://img.shields.io/badge/BRANDEDKING-V2-darkgreen)](#)
-[![Stars](https://img.shields.io/github/stars/WCGKING/BRANDEDKING?style=flat-square&color=yellow)](https://github.com/WCGKING/BRANDEDKING/stargazers)
-[![Forks](https://img.shields.io/github/forks/WCGKING/BRANDEDKING?style=flat-square&color=orange)](https://github.com/WCGKING/BRANDEDKING/fork)
-
-
-![logo](https://telegra.ph/SHARA-x-MUSIC-BOT-IMAGE-02-12)
-
-<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=980&lines=This+Project+Is+Inspired+On+The+Hard+Work+Branded+Network%E2%9D%A4%EF%B8%8F">
-</p>
-
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [♡︎ sʜᴀʀᴀ ♡︎ BY = @SHARA_XD](https://t.me/SharaXmusic_bot)**
-
-
 <h2 align="center">
-    ⚠️「 📍𝗙𝗢𝗥𝗞 𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢 𝗙𝗜𝗥𝗦𝗧𝗟𝗬📍 」⚠️
+    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+</h2>
 
-
-## 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗛𝗲𝗿𝗼𝗸𝘂
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devilxdz/sharaXmuisc)
-
-
-🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
 <p align="center">
-<a href="https://telegram.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗪𝗢𝗥𝗟𝗗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
 </p>
+
+<p align="center">
+<a href="https://github.com/AnonymousX1025/AnonXMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/AnonymousX1025/AnonXMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/AnonymousX1025/AnonXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
+<a href="https://github.com/AnonymousX1025/AnonXMusic/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
+</p>
+
 <h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
 
-![logo](https://te.legra.ph/file/e545cecbd06581d1a98f3.jpg)
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousX1025/AnonXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-━━━━━━━━━━━━
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+</h3>
 
-## 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗩𝗣𝗦
-- Get your [Necessary Variables](https://github.com/WCGKING/BRANDEDKING/blob/master/.env)
+- Get your [Necessary Variables](https://github.com/AnonymousX1025/AnonXMusic/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -50,15 +38,17 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 - Install pip by :
 `sudo pip3 install -U pip`
 - Install Node js by :
-`curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
+`curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/WCGKING/BRANDEDKING && cd BRANDEDKING`
+`git clone https://github.com/AnonymousX1025/AnonXMusic && cd AnonXMusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
-`vi .env`<br>
+`vi sample.env`<br>
 Press `I` on the keyboard for editing env<br>
 Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
+- Rename the env file by :
+`mv sample.env .env`
 - Install tmux to keep running your bot when you close the terminal by :
 `sudo apt install tmux && tmux`
 - Finally run the bot by :
@@ -66,18 +56,16 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 
-[![Telegram](https://img.shields.io/badge/-Support-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/BRANDED_WORLD)
-[![Telegram](https://img.shields.io/badge/-UpDate-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/BRANDRD_BOT)
-[![Telegram](https://img.shields.io/badge/-UpDate-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)]([https://t.me/BRANDED_PAID_CC)
-━━━━━━━━━━━━━━━━━━━━
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
 
-# Credit
-  - [𝐁𝐑𝐀𝐍𝐃𝐄𝐃 𝐗 𝐊𝐈𝐍𝐆](https://github.com/BRANDEDKING82)
+<p align="center">
+<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
-• This project is TheGodFather.
+<p align="center">
+<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
-• BRANDEDKING is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-Made with ♥️ by [𝗪𝗖𝗚𝗞𝗜𝗡𝗚](https://github.com/WCGKING)
-
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/WCGKING/BRANDEDKING). </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
