@@ -11,7 +11,7 @@
 [![Forks](https://img.shields.io/github/forks/WCGKING/BRANDEDKING?style=flat-square&color=orange)](https://github.com/WCGKING/BRANDEDKING/fork)
 
 
-![logo](https://telegra.ph/SHARA-x-MUSIC-BOT-02-12.jpg)
+![logo](https://telegra.ph/SHARA-x-MUSIC-BOT-IMAGE-02-12)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=980&lines=This+Project+Is+Inspired+On+The+Hard+Work+Branded+Network%E2%9D%A4%EF%B8%8F">
 </p>
